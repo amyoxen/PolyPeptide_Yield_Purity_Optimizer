@@ -1,5 +1,5 @@
 # PolyPeptitePurityOptimizer
-It is to calculate the optimized portion of Different Cortrosyn to combine to achieve best purity and assay.
+It is to calculate the optimized mixing portions of polypeptide with different levels of impurities.
 Installation Steps:
 
 1.	Install python 2.7 in your computer. If the current system is 64 bit, use the installer in this folder. If the current system is 32 bit, google for python 2.7 for 32 bit systems.
